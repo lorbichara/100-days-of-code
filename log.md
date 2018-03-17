@@ -14,6 +14,7 @@
 
 **Thoughts:** I'm interested in using Python for Data Science, so I thought I'd use some days in this challenge to start learning Python and practice it more. I started with basic exercises I found online, and hopefully by the end of this challenge I'll be able to do more interesting projects.
 
-**Link to work:** [Dice Rolling Simulator](https://github.com/lorbichara/100-days-of-code/blob/master/Python/DiceRollingSimulator.py)
-				  [Guess The Number](https://github.com/lorbichara/100-days-of-code/blob/master/Python/GuessTheNumber.py)
-				  [MadLib](https://github.com/lorbichara/100-days-of-code/blob/master/Python/MadLib.py)
+**Link to work:** 
+* [Dice Rolling Simulator](https://github.com/lorbichara/100-days-of-code/blob/master/Python/DiceRollingSimulator.py)
+* [Guess The Number](https://github.com/lorbichara/100-days-of-code/blob/master/Python/GuessTheNumber.py)
+* [MadLib](https://github.com/lorbichara/100-days-of-code/blob/master/Python/MadLib.py)
