@@ -26,3 +26,16 @@
 **Thoughts:** This was a very fun project! I've used CSS before for web development projects but this was a different side to CSS for me. I was familiar with pure CSS images, specially the ones in [CodePen](https://codepen.io/) but this is my first time creating one. I followed a [tutorial](https://coding-artist.teachable.com/p/how-to-make-pure-css-images) suggested by [Brittany Walker](https://medium.com/@brittanyrw/100-days-of-code-challenge-completed-bbce87f04c00) who also did the challenge, but probably tomorrow I'll be trying my own image. This is really exciting! I'm really loving the challenge, and the way I've been able to experiment with a lot of different stuff.
 
 **Link to work:** [Koala](https://codepen.io/lorbichara/pen/BrLeVg)
+
+### Day 4: March 18, 2018
+
+**Today's Progress**: Continued with Python (started working with lists)
+
+**Thoughts:** Today I continued working on simple Python projects, this time, exercises that involved lists. This [website](https://www.practicepython.org/) includes Python exercises. I also experimented with syntax differences between Python 2 and 3. And overall I'm just loving the simplicity of Python, compared to other Object-Oriented Languages I'm more familiar with.
+
+**Link to work:** 
+* [CharacterInput](https://github.com/lorbichara/100-days-of-code/blob/master/Python/CharacterInput.py)
+* [Odd Or Even](https://github.com/lorbichara/100-days-of-code/blob/master/Python/EvenOrOdd.py)
+* [List Less Than Ten](https://github.com/lorbichara/100-days-of-code/blob/master/Python/ListLessThan10.py)
+* [Divisors](https://github.com/lorbichara/100-days-of-code/blob/master/Python/Divisors.py)
+* [List Overlap](https://github.com/lorbichara/100-days-of-code/blob/master/Python/ListOverlap.py)
