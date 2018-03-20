@@ -39,3 +39,11 @@
 * [List Less Than Ten](https://github.com/lorbichara/100-days-of-code/blob/master/Python/ListLessThan10.py)
 * [Divisors](https://github.com/lorbichara/100-days-of-code/blob/master/Python/Divisors.py)
 * [List Overlap](https://github.com/lorbichara/100-days-of-code/blob/master/Python/ListOverlap.py)
+
+### Day 5: March 19, 2018
+
+**Today's Progress**: (Kinda) Coded a Bitcoin "like" Blockchain
+
+**Thoughts:** My brother sent me a [tutorial](https://blockgeeks.com/guides/code-a-bitcoin-blockchain-in-javascript/) that explains how to code a Bitcoin "like" Blockchain in JavaScript. I got stuck on the testing part, but nonetheless it was useful because it helped me understand a little bit better the whole blockchain concept by actually coding the different parts that make it up.
+
+**Link to work:** [Bitcoin "like" Blockchain in JS](https://github.com/lorbichara/100-days-of-code/blob/master/JavaScript/blockchain.js)
