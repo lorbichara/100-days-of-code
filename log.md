@@ -47,3 +47,11 @@
 **Thoughts:** My brother sent me a [tutorial](https://blockgeeks.com/guides/code-a-bitcoin-blockchain-in-javascript/) that explains how to code a Bitcoin "like" Blockchain in JavaScript. I got stuck on the testing part, but nonetheless it was useful because it helped me understand a little bit better the whole blockchain concept by actually coding the different parts that make it up.
 
 **Link to work:** [Bitcoin "like" Blockchain in JS](https://github.com/lorbichara/100-days-of-code/blob/master/JavaScript/blockchain.js)
+
+### Day 6: March 20, 2018
+
+**Today's Progress**: Second pure CSS image
+
+**Thoughts:** I really enjoyed making my first CSS image (the koala), so today I tried doing my first very own (without following a tutorial). There's still a long way to go, but with practice I hope I can get better, and create better images by the end of the challenge.
+
+**Link to work:** [Flower](https://codepen.io/lorbichara/pen/YapQGg)

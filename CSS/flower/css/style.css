@@ -1,0 +1,190 @@
+body {
+  background: black;
+}
+
+.box {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 600px;
+  height: 420px;
+  background: black;
+}
+
+.center {
+  position: absolute;
+  top: 25%;
+  left: 42%;
+  width: 14%;
+  height: 19%;
+  background: #f8cde5;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.petal1 {
+  position: absolute;
+  top: 28%;
+  left: 53%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f ;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal2 {
+  position: absolute;
+  top: 28%;
+  left: 30%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal3 {
+  position: absolute;
+  top: 14%;
+  transform: rotate(40deg);
+  left: 35%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal4 {
+  position: absolute;
+  top: 14%;
+  transform: rotate(-40deg);
+  left: 48%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal5 {
+  position: absolute;
+  top: 40%;
+  transform: rotate(-40deg);
+  left: 35%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal6 {
+  position: absolute;
+  top: 40%;
+  transform: rotate(40deg);
+  left: 48%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal7 {
+  position: absolute;
+  top: 12%;
+  transform: rotate(90deg);
+  left: 41.5%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal8 {
+  position: absolute;
+  top: 40%;
+  transform: rotate(90deg);
+  left: 41.5%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal9 {
+  position: absolute;
+  top: 20%;
+  transform: rotate(-22deg);
+  left: 52%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal10 {
+  position: absolute;
+  top: 20%;
+  transform: rotate(22deg);
+  left: 30%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal11 {
+  position: absolute;
+  top: 38%;
+  transform: rotate(-15deg);
+  left: 32%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.petal12 {
+  position: absolute;
+  top: 36%;
+  transform: rotate(20deg);
+  left: 52%;
+  width: 15%;
+  height: 15%;
+  background: #ff008f;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.stem {
+  position: absolute;
+  top: 40%;
+  left: 17.5%;
+  width: 60%;
+  height: 60%;
+  background: #177b37 ;
+  border-radius: 50%;
+  -webkit-clip-path: ellipse(2% 49% at 53% 49%);
+clip-path: ellipse(2% 49% at 53% 49%);
+}
+
+.leaf {
+  position: absolute;
+  top: 67%;
+  transform: rotate(-40deg);
+  left: 47%;
+  width: 15%;
+  height: 7%;
+  background: #177b37;
+  border-radius: 50%;
+  z-index: 1;
+}
