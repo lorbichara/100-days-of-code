@@ -55,3 +55,11 @@
 **Thoughts:** I really enjoyed making my first CSS image (the koala), so today I tried doing my first very own (without following a tutorial). There's still a long way to go, but with practice I hope I can get better, and create better images by the end of the challenge.
 
 **Link to work:** [Flower](https://codepen.io/lorbichara/pen/YapQGg)
+
+### Day 7: March 21, 2018
+
+**Today's Progress**: Introduction to JavaScript
+
+**Thoughts:** I wanted to learn JavaScript to start including it in my webpages. (Plus, after the Blockchain JS tutorial, even though the syntax was understandable, I thought I should start by learning the basics.) I tried some basic features like write, message boxes, working with the document object, and so far I'm not liking it very much. Some examples didn't work for me, so I need to get better at debugging and understanding JS.
+
+**Link to work:** [Just me trying out some basic JS features](https://github.com/lorbichara/100-days-of-code/blob/master/JavaScript/example.html)
