@@ -63,3 +63,13 @@
 **Thoughts:** I wanted to learn JavaScript to start including it in my webpages. (Plus, after the Blockchain JS tutorial, even though the syntax was understandable, I thought I should start by learning the basics.) I tried some basic features like write, message boxes, working with the document object, and so far I'm not liking it very much. Some examples didn't work for me, so I need to get better at debugging and understanding JS.
 
 **Link to work:** [Just me trying out some basic JS features](https://github.com/lorbichara/100-days-of-code/blob/master/JavaScript/example.html)
+
+### Day 8: March 22, 2018
+
+**Today's Progress**: LeetCode Problems
+
+**Thoughts:** I went back to basics with some LeetCode problems. I've never been one to solve problems there for fun (usually only when it was for school), so today I decided to try it. I tried three diferent easy problems, but got stuck in one. For the two problems that were accepted, my runtime wasn't the best so I'll keep practicing to improve.
+
+**Link to work:**
+* [Jewels & Stones](https://github.com/lorbichara/100-days-of-code/blob/master/C++/JewelsAndStones.cpp)
+* [Intersection of Two Arrays](https://github.com/lorbichara/100-days-of-code/blob/master/C++/IntersectionOfArrays.cpp)
