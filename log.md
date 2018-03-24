@@ -14,7 +14,7 @@
 
 **Thoughts:** I'm interested in using Python for Data Science, so I thought I'd use some days in this challenge to start learning Python and practice it more. I started with some basic [projects](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/) I found online, and hopefully by the end of this challenge I'll be able to do more interesting projects.
 
-**Link to work:** 
+**Links to work:** 
 * [Dice Rolling Simulator](https://github.com/lorbichara/100-days-of-code/blob/master/Python/DiceRollingSimulator.py)
 * [Guess The Number](https://github.com/lorbichara/100-days-of-code/blob/master/Python/GuessTheNumber.py)
 * [MadLib](https://github.com/lorbichara/100-days-of-code/blob/master/Python/MadLib.py)
@@ -33,7 +33,7 @@
 
 **Thoughts:** Today I continued working on simple Python projects, this time, exercises that involved lists. This [website](https://www.practicepython.org/) includes Python exercises. I also experimented with syntax differences between Python 2 and 3. And overall I'm just loving the simplicity of Python, compared to other Object-Oriented Languages I'm more familiar with.
 
-**Link to work:** 
+**Links to work:** 
 * [CharacterInput](https://github.com/lorbichara/100-days-of-code/blob/master/Python/CharacterInput.py)
 * [Odd Or Even](https://github.com/lorbichara/100-days-of-code/blob/master/Python/EvenOrOdd.py)
 * [List Less Than Ten](https://github.com/lorbichara/100-days-of-code/blob/master/Python/ListLessThan10.py)
@@ -70,6 +70,19 @@
 
 **Thoughts:** I went back to basics with some LeetCode problems. I've never been one to solve problems there for fun (usually only when it was for school), so today I decided to try it. I tried three diferent easy problems, but got stuck in one. For the two problems that were accepted, my runtime wasn't the best so I'll keep practicing to improve.
 
-**Link to work:**
+**Links to work:**
 * [Jewels & Stones](https://github.com/lorbichara/100-days-of-code/blob/master/C++/JewelsAndStones.cpp)
 * [Intersection of Two Arrays](https://github.com/lorbichara/100-days-of-code/blob/master/C++/IntersectionOfArrays.cpp)
+
+### Day 9: March 23, 2018
+
+**Today's Progress**: LeetCode Problems
+
+**Thoughts:** I continued with more LeetCode problems today! This time I was able to complete 5 problems (3 more than yesterday, one in SQL and the rest in C++), and for one, I even came up with another solution that beat my original runtime.
+
+**Links to work:**
+* [Reverse a String](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ReverseString.cpp)
+* [Max Consecutive Ones](https://github.com/lorbichara/100-days-of-code/blob/master/C++/MaxConsecutiveOnes.cpp)
+* [Delete Node in a Linked List](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/DeleteNodeLinkedList.cpp)
+* [Linked List Cycle](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/LinkedListCycle.cpp)
+* [Big Countries](https://github.com/lorbichara/100-days-of-code/blob/master/C++/SQL/BigCountries.sql)
