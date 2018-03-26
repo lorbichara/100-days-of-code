@@ -85,4 +85,23 @@
 * [Max Consecutive Ones](https://github.com/lorbichara/100-days-of-code/blob/master/C++/MaxConsecutiveOnes.cpp)
 * [Delete Node in a Linked List](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/DeleteNodeLinkedList.cpp)
 * [Linked List Cycle](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/LinkedListCycle.cpp)
-* [Big Countries](https://github.com/lorbichara/100-days-of-code/blob/master/C++/SQL/BigCountries.sql)
+* [Big Countries](https://github.com/lorbichara/100-days-of-code/blob/master/SQL/BigCountries.sql)
+
+### Day 10: March 24, 2018
+
+**Today's Progress**: LeetCode Problems
+
+**Thoughts:** Yes, I solved more LeetCode problems today. Only this time, I checked the Discussion tab to see how others solved the problem so it helped me to see a different way of solving it.
+
+**Links to work:**
+* [Judge Route Cycle](https://github.com/lorbichara/100-days-of-code/blob/master/C++/JudgeRouteCycle.cpp)
+* [Single Number](https://github.com/lorbichara/100-days-of-code/blob/master/C++/SingleNumber.cpp)
+* [Fizz Buzz](https://github.com/lorbichara/100-days-of-code/blob/master/C++/FizzBuzz.cpp)
+
+### Day 11: March 25, 2018
+
+**Today's Progress**: Ketnipz Bean
+
+**Thoughts:** I started drawing the [Ketnipz](https://www.instagram.com/ketnipz/) Bean on CSS. Still not done, and it's still looking a bit weird, but I'll keep working on it.
+
+**Link to work:** [Ketnipz Bean](https://codepen.io/lorbichara/full/WzZpVQ) (Still not done)
