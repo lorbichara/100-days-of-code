@@ -105,3 +105,11 @@
 **Thoughts:** I started drawing the [Ketnipz](https://www.instagram.com/ketnipz/) Bean on CSS. Still not done, and it's still looking a bit weird, but I'll keep working on it.
 
 **Link to work:** [Ketnipz Bean](https://codepen.io/lorbichara/full/WzZpVQ) (Still not done)
+
+### Day 12: March 26, 2018
+
+**Today's Progress**: Ketnipz Bean
+
+**Thoughts:** I continued with the Bean from yesterday, and it's still looking weird! I need to get better at CSS to make the figures look more like the original.
+
+**Link to work:** [Ketnipz Bean](https://codepen.io/lorbichara/full/WzZpVQ) (Still not done) (It actually looks pretty funny)
