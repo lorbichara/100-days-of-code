@@ -113,3 +113,11 @@
 **Thoughts:** I continued with the Bean from yesterday, and it's still looking weird! I need to get better at CSS to make the figures look more like the original.
 
 **Link to work:** [Ketnipz Bean](https://codepen.io/lorbichara/full/WzZpVQ) (Still not done) (It actually looks pretty funny)
+
+### Day 13: March 27, 2018
+
+**Today's Progress**: Cracking the Coding Interview Problems
+
+**Thoughts:** I've solved some CtCI problems when practicing for interviews, but today I decided to practice them again. After coming up with a solution, I took the time to check for the proposed solutions and try to implement them myself, to learn more. Although today I only completed 1 problem (with several solutions), I'll continue working through the problems of the book.
+
+**Link to work:** [IsUnique](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/IsUnique.cpp)
