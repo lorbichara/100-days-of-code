@@ -121,3 +121,14 @@
 **Thoughts:** I've solved some CtCI problems when practicing for interviews, but today I decided to practice them again. After coming up with a solution, I took the time to check for the proposed solutions and try to implement them myself, to learn more. Although today I only completed 1 problem (with several solutions), I'll continue working through the problems of the book.
 
 **Link to work:** [IsUnique](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/IsUnique.cpp)
+
+### Day 14: March 28, 2018
+
+**Today's Progress**: More CtCI Problems
+
+**Thoughts:** Woo! 2 weeks of the challenge already! 
+Yes, I solved more Cracking the Coding Interview Problems today. I'm taking advantage of this challenge to start practicing up for recruiting season next semester instead of waiting till August to start panicking.
+
+**Links to work:**
+* [Check Permutation](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/CheckPermutation.cpp)
+* [URLify](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/URLify.cpp)
