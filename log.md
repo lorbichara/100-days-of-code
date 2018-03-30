@@ -132,3 +132,13 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Links to work:**
 * [Check Permutation](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/CheckPermutation.cpp)
 * [URLify](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/URLify.cpp)
+
+### Day 15: March 29, 2018
+
+**Today's Progress**: More CtCI Problems
+
+**Thoughts:** I did more CtCI problems today. Each day I'm feeling more confident with this book, and I think I'm getting faster at coming up with good solutions.
+
+**Links to work:**
+* [Check Permutation](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/CheckPermutation.cpp) (I included two new solutions for this problem.)
+* [Palindrome Permutation](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/PalindromePermutation.cpp) (This one seemed so hard when I first read it, but a minute later I was able to come up with a clever solution!)
