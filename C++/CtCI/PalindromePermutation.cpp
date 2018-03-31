@@ -8,6 +8,7 @@ using namespace std;
 
 // In a palindrome, each character must appear an even number of times,
 // with the optional exception of a character that may appear only once (the middle character).
+// It's not necessary to create all permutations.
 bool palindromePermutation(string s) {
 	map<char, int> letters;
 	map<char, int>::iterator it;
