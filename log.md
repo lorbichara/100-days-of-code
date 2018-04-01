@@ -158,3 +158,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** The same as the previous 4 days. I used to dread this book because it meant recruiting season = stress for me, but now working through it without the stress of recruiting season, makes it more friendly.
 
 **Link to work:** [String Compression](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/StringCompression.cpp)
+
+### Day 17: April 1, 2018
+
+**Today's Progress**: Cracking the Coding Interview Problems
+
+**Thoughts:** Today I continued with the same problem I was working on yesterday.
+
+**Link to work:** [String Compression](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/StringCompression.cpp)

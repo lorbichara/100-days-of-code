@@ -1,4 +1,8 @@
+// Cracking the Coding Interview
+// Question 1.6
+// String Compression: Implement a method to perform basic string compression using the counts of repeated characters.
 #include <iostream>
+#include <string>
 using namespace std;
 
 string stringCompression(string s) {
@@ -9,17 +13,19 @@ string stringCompression(string s) {
 	bool isSame = false;
 
 	for(int i = 0; i < s.length(); i++) {
-		if(s[i] == prevChar) {
-			iCount++;
-		}
-		else {
-			newString = newString + s[i] + iCount;
-		}
+		iCount++;
 
-		prevChar = s[i];
+		if(i + 1 >= s.length() || s[i] != s[i+1]) {
+			newString += s[i];
+			newString += to_string(iCount);
+			iCount = 0;
+		}
 	}
 
-	return newString;
+	if(newString.length() > s.length())
+		return s;
+	else
+		return newString;
 }
 
 
