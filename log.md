@@ -145,7 +145,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 ### Day 16: March 30, 2018
 
-**Today's Progress**: Cracking the Coding Interview Problems
+**Today's Progress**: Cracking the Coding Interview Problem
 
 **Thoughts:** I continued with another CtCI problem. I'm having fun coming up with one or several solutions, and then comparing them to the ones proposed in the book, and try to implement them myself. I also feel that I'm learning a lot, and that it'll help me in the long run.
 
@@ -153,7 +153,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 ### Day 17: March 31, 2018
 
-**Today's Progress**: Cracking the Coding Interview Problems
+**Today's Progress**: Cracking the Coding Interview Problem
 
 **Thoughts:** The same as the previous 4 days. I used to dread this book because it meant recruiting season = stress for me, but now working through it without the stress of recruiting season, makes it more friendly.
 
@@ -161,8 +161,16 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 ### Day 17: April 1, 2018
 
-**Today's Progress**: Cracking the Coding Interview Problems
+**Today's Progress**: Cracking the Coding Interview Problem
 
 **Thoughts:** Today I continued with the same problem I was working on yesterday.
 
 **Link to work:** [String Compression](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/StringCompression.cpp)
+
+### Day 18: April 2, 2018
+
+**Today's Progress**: Cracking the Coding Interview Problem
+
+**Thoughts:** I solved yet another CtCI problem.
+
+**Link to work:** [String Rotation](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/StringRotation.cpp)
