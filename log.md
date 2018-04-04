@@ -174,3 +174,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** I solved yet another CtCI problem.
 
 **Link to work:** [String Rotation](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/StringRotation.cpp)
+
+### Day 19: April 3, 2018
+
+**Today's Progress**: Google Code Jam Practice
+
+**Thoughts:** Today I registered for Google's Code Jam! I saw a tweet and decided to try it. Qualification Round begins till Friday but I thought I would practice with problems from past contests. I tried problem A from the Qualification Round from 2017 and it was challenging, but at the end it turned out with help from the algorithm proposed by [Gopinath](http://gopinaths.gitlab.io/post/oversized_pancake_flipper/), and both of my Small and Large inputs were accepted.
+
+**Link to work:** [Oversized Pancake Flipper](https://github.com/lorbichara/100-days-of-code/blob/master/C++/GoogleJam/Pancake.cpp)
