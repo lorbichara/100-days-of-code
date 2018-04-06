@@ -189,4 +189,12 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** Today I practiced a Linked List problem from LeetCode that also appears on CtCI.
 
-**Link to work:** [Oversized Pancake Flipper](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/CycleStart.cpp)
+**Link to work:** [Linked List Cycle Start](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/CycleStart.cpp)
+
+### Day 21: April 5, 2018
+
+**Today's Progress**: CtCI Problem
+
+**Thoughts:** WE HIT 3 WEEKS! THAT'S 21 DAYS! (A myth says that it takes 21 days to build a habit.) I'm not sure how to classify if something is a habit or not, but what I'm sure is that today, I started coding for today's challenge when I got sick of studying. So yeah, I took a break from studying to code. That had never happened before! 
+
+**Link to work:** [Kth To Last Node](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/KthToLastNode.cpp)
