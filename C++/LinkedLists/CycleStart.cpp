@@ -21,7 +21,7 @@ public:
         pP = head;
         pQ = head;
 
-        while(pP != NULL && pQ != NULL && pQ->next != NULL) {
+        while(pQ != NULL && pQ->next != NULL) {
         	pP = pP->next;
         	pQ = pQ->next->next;
 
@@ -38,4 +38,4 @@ public:
     }
 };
 
-// Runtime: 12 ms, beats 46.62 of submissions.
+// Runtime: 10 ms, beats 99.32 of submissions.

@@ -198,3 +198,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** WE HIT 3 WEEKS! THAT'S 21 DAYS! (A myth says that it takes 21 days to build a habit.) I'm not sure how to classify if something is a habit or not, but what I'm sure is that today, I started coding for today's challenge when I got sick of studying. So yeah, I took a break from studying to code. That had never happened before! 
 
 **Link to work:** [Kth To Last Node](https://github.com/lorbichara/100-days-of-code/blob/master/C++/CtCI/KthToLastNode.cpp)
+
+### Day 22: April 6, 2018
+
+**Today's Progress**: LeetCode/CtCI Problem
+
+**Thoughts:** Today I tried other solutions for the problems for the previous 2 days, and tried a new one that appears both in CtCi and LeetCode.
+
+**Link to work:** [Intersection](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/Intersection.cpp)

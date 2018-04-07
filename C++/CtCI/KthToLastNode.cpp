@@ -21,7 +21,10 @@ struct Node *newNode(int data)
    return temp;
 }
 
-void kthToLastNode(struct Node *head, int k) {
+struct Node kthToLastNode(struct Node *head, int k) {
+	if(head == NULL)
+		return *head;
+
     struct Node *pP = head;
     int iSize = 1;
     int position = 0;
@@ -38,7 +41,29 @@ void kthToLastNode(struct Node *head, int k) {
         pP = pP->next;
     }
 
-    cout << pP->data << endl;
+   // cout << pP->data << endl;
+    return *pP;
+}
+
+
+// O(n)
+struct Node kthToLastNodeIterative(struct Node *head, int k) {
+	struct Node *pP = head;
+	struct Node *pQ = head;
+
+	for(int i = 0; i < k; i++) {
+		if(pP == NULL)
+			return *head;
+		else
+			pP = pP->next;
+	}
+
+	while(pP != NULL) {
+		pP = pP->next;
+		pQ = pQ->next;
+	}
+
+	return *pQ;
 }
 
 int main()
@@ -55,5 +80,5 @@ int main()
     int k;
     cout << "Introduce a value for k: ";
     cin >> k;
-    kthToLastNode(start, k);
+    kthToLastNodeIterative(start, k);
 }
