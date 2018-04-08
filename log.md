@@ -206,3 +206,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** Today I tried other solutions for the problems for the previous 2 days, and tried a new one that appears both in CtCi and LeetCode.
 
 **Link to work:** [Intersection](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/Intersection.cpp)
+
+### Day 23: April 7, 2018
+
+**Today's Progress**: LeetCode/CtCI Problem
+
+**Thoughts:** I completed yet another LeetCode/CtCI problem. I think I'm actually getting better because I've been coming up with better answers in less time! Also, whenever I complete a problem with my own solution, I try checking out other solutions and sometimes implementing them and I think that's helping me. I'm no longer terrified of CtCI!
+
+**Link to work:** [Palindrome](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/Palindrome.cpp)
