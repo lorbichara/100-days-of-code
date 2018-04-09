@@ -214,3 +214,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** I completed yet another LeetCode/CtCI problem. I think I'm actually getting better because I've been coming up with better answers in less time! Also, whenever I complete a problem with my own solution, I try checking out other solutions and sometimes implementing them and I think that's helping me. I'm no longer terrified of CtCI!
 
 **Link to work:** [Palindrome](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/Palindrome.cpp)
+
+### Day 24: April 8, 2018
+
+**Today's Progress**: LeetCode Problem
+
+**Thoughts:** A simple problem completed today since there's a lot of homework that needed to be done, but I didn't want to miss today!
+
+**Link to work:** [Remove Duplicates from a Sorted Linked List](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/RemoveDuplicatesSorted.cpp)
