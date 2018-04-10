@@ -222,3 +222,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** A simple problem completed today since there's a lot of homework that needed to be done, but I didn't want to miss today!
 
 **Link to work:** [Remove Duplicates from a Sorted Linked List](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/RemoveDuplicatesSorted.cpp)
+
+### Day 25: April 9, 2018
+
+**Today's Progress**: Project Euler
+
+**Thoughts:** Someone once recommended Project Euler, so I decided to give it a try today.
+
+**Link to work:** [Remove Duplicates from a Sorted Linked List](https://github.com/lorbichara/100-days-of-code/blob/master/C++/SmallestMultiple.cpp)
