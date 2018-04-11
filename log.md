@@ -229,4 +229,15 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** Someone once recommended Project Euler, so I decided to give it a try today.
 
-**Link to work:** [Remove Duplicates from a Sorted Linked List](https://github.com/lorbichara/100-days-of-code/blob/master/C++/SmallestMultiple.cpp)
+**Link to work:** [Remove Duplicates from a Sorted Linked List](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/SmallestMultiple.cpp)
+
+### Day 26: April 10, 2018
+
+**Today's Progress**: Project Euler Problems
+
+**Thoughts:** Today I continued with more Project Euler Problems! They're fun, although I think my solutions aren't efficient AT ALL! I need to work on that.
+
+**Links to work:**
+* [Sum Square Difference](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/SumSquare.cpp)
+* [10001st Prime](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/10001Prime.cpp)
+* [Summation of Primes](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/SumOfPrimes.cpp)
