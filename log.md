@@ -240,4 +240,14 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Links to work:**
 * [Sum Square Difference](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/SumSquare.cpp)
 * [10001st Prime](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/10001Prime.cpp)
-* [Summation of Primes](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/SumOfPrimes.cpp)
+* [Summation of Primes](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/SummationOfPrimes.cpp)
+
+### Day 27: April 11, 2018
+
+**Today's Progress**: Project Euler Problems
+
+**Thoughts:** I'm finding these problems very interesting! If I can't get to the answer of one at a given time, I'm left all day thinking about how to solve it till I have time to code again!
+
+**Links to work:**
+* [Largest Prime Factor](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/LargestPrimeFactor.cpp)
+* [Even Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/EvenFibonacci.cpp)
