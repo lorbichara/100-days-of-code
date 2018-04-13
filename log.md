@@ -251,3 +251,23 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Links to work:**
 * [Largest Prime Factor](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/LargestPrimeFactor.cpp)
 * [Even Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/EvenFibonacci.cpp)
+
+### Day 28: April 12, 2018
+
+**Today's Progress**: Project Euler Problem
+
+**Thoughts:** Ahhhh today I tried two Project Euler problems and I wasn't able to solve them yet!! I even learned a formula to calculate the nth Fibonacci number, and still nothing...
+
+**Links to work:**
+* [1000 Diti Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/1000DigitFibonacci.cpp)
+* [Factorial Digit Sum](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/FactorialDigitSum.cpp)
+
+### Day 29: April 13, 2018
+
+**Today's Progress**: Encrypting/Decrypting Agent Files
+
+**Thoughts:** This was an assignment for school but it took me the afternoon and it was interesting so I decided to add it. We created this Agent Management System, and now we had to encrypt/decrypt files with agent's information. (In C)
+
+**Links to work:**
+* [1000 Diti Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/Encryption.cpp)
+* [Factorial Digit Sum](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/FactorialDigitSum.cpp)
