@@ -269,5 +269,4 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** This was an assignment for school but it took me the afternoon and it was interesting so I decided to add it. We created this Agent Management System, and now we had to encrypt/decrypt files with agent's information. (In C)
 
 **Links to work:**
-* [1000 Diti Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/Encryption.cpp)
-* [Factorial Digit Sum](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/FactorialDigitSum.cpp)
+* [Encryption](https://github.com/lorbichara/100-days-of-code/blob/master/Encryption.cpp)
