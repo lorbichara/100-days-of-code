@@ -259,7 +259,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** Ahhhh today I tried two Project Euler problems and I wasn't able to solve them yet!! I even learned a formula to calculate the nth Fibonacci number, and still nothing...
 
 **Links to work:**
-* [1000 Diti Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/1000DigitFibonacci.cpp)
+* [1000 Digit Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/1000DigitFibonacci.cpp)
 * [Factorial Digit Sum](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/FactorialDigitSum.cpp)
 
 ### Day 29: April 13, 2018
@@ -268,7 +268,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** This was an assignment for school but it took me the afternoon and it was interesting so I decided to add it. We created this Agent Management System, and now we had to encrypt/decrypt files with agent's information. (In C)
 
-**Links to work:** * [Encryption](https://github.com/lorbichara/100-days-of-code/blob/master/Encryption.cpp)
+**Links to work:** [Encryption](https://github.com/lorbichara/100-days-of-code/blob/master/Encryption.c)
 
 ### Day 30: April 14, 2018
 
@@ -276,4 +276,10 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** Today was another LeetCode kind of day... It was a math problem and at first I came up with a very non-efficient solution, but after doing some research, I found a formula that calculates the answer much more faster.
 
-**Links to work:** * [Add Digits](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/AddDigits.cpp)
+**Links to work:** [Add Digits](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/AddDigits.cpp)
+
+### Day 31: April 15, 2018
+
+**Today's Progress**: Coding Challenge
+
+**Thoughts:** A MONTH ALREADY?!?! Today I completed a coding challenge for a company I'm applying to! For privacy purposes, I'm not making my solution public. I wasn't able to get all test cases, but I'm proud of what I accomplished considering it's the same challenge they use for full-time employees with more experience.
