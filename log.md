@@ -71,8 +71,8 @@
 **Thoughts:** I went back to basics with some LeetCode problems. I've never been one to solve problems there for fun (usually only when it was for school), so today I decided to try it. I tried three diferent easy problems, but got stuck in one. For the two problems that were accepted, my runtime wasn't the best so I'll keep practicing to improve.
 
 **Links to work:**
-* [Jewels & Stones](https://github.com/lorbichara/100-days-of-code/blob/master/C++/JewelsAndStones.cpp)
-* [Intersection of Two Arrays](https://github.com/lorbichara/100-days-of-code/blob/master/C++/IntersectionOfArrays.cpp)
+* [Jewels & Stones](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/JewelsAndStones.cpp)
+* [Intersection of Two Arrays](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/IntersectionOfArrays.cpp)
 
 ### Day 9: March 23, 2018
 
@@ -81,8 +81,8 @@
 **Thoughts:** I continued with more LeetCode problems today! This time I was able to complete 5 problems (3 more than yesterday, one in SQL and the rest in C++), and for one, I even came up with another solution that beat my original runtime.
 
 **Links to work:**
-* [Reverse a String](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ReverseString.cpp)
-* [Max Consecutive Ones](https://github.com/lorbichara/100-days-of-code/blob/master/C++/MaxConsecutiveOnes.cpp)
+* [Reverse a String](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/ReverseString.cpp)
+* [Max Consecutive Ones](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/MaxConsecutiveOnes.cpp)
 * [Delete Node in a Linked List](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/DeleteNodeLinkedList.cpp)
 * [Linked List Cycle](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LinkedLists/LinkedListCycle.cpp)
 * [Big Countries](https://github.com/lorbichara/100-days-of-code/blob/master/SQL/BigCountries.sql)
@@ -94,9 +94,9 @@
 **Thoughts:** Yes, I solved more LeetCode problems today. Only this time, I checked the Discussion tab to see how others solved the problem so it helped me to see a different way of solving it.
 
 **Links to work:**
-* [Judge Route Cycle](https://github.com/lorbichara/100-days-of-code/blob/master/C++/JudgeRouteCycle.cpp)
-* [Single Number](https://github.com/lorbichara/100-days-of-code/blob/master/C++/SingleNumber.cpp)
-* [Fizz Buzz](https://github.com/lorbichara/100-days-of-code/blob/master/C++/FizzBuzz.cpp)
+* [Judge Route Cycle](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/JudgeRouteCycle.cpp)
+* [Single Number](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/SingleNumber.cpp)
+* [Fizz Buzz](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/FizzBuzz.cpp)
 
 ### Day 11: March 25, 2018
 
@@ -268,6 +268,12 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** This was an assignment for school but it took me the afternoon and it was interesting so I decided to add it. We created this Agent Management System, and now we had to encrypt/decrypt files with agent's information. (In C)
 
-**Links to work:**
-* [1000 Diti Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/Encryption.cpp)
-* [Factorial Digit Sum](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/FactorialDigitSum.cpp)
+**Links to work:** * [Encryption](https://github.com/lorbichara/100-days-of-code/blob/master/Encryption.cpp)
+
+### Day 30: April 14, 2018
+
+**Today's Progress**: LeetCode Math Problem
+
+**Thoughts:** Today was another LeetCode kind of day... It was a math problem and at first I came up with a very non-efficient solution, but after doing some research, I found a formula that calculates the answer much more faster.
+
+**Links to work:** * [Add Digits](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/AddDigits.cpp)

@@ -30,18 +30,17 @@ unsigned long long int fibonacci(int iN) {
 unsigned long long int fibFormula(int iN) {
 	long lFib = (pow((1 + sqrt(5)), iN) - pow((1 - sqrt(5)), iN)) / ((pow(2, iN)) * sqrt(5));
 	return lFib;
-
 }
 
 int main() {
-	// unsigned long long int iFib = 0;
-	// for(int i = 12; i < 100; i++) {
-	// 	iFib = fibFormula(i);
-	// 	if(numDigits(iFib) == 1000) {
-	// 		cout << i << endl;
-	// 		return 1;
-	// 	}
-	// }
-	// cout << fibonacci(3) << endl;
-	cout << fibFormula(4782) << endl;
+	unsigned long long int iFib = 0;
+	for(int i = 12; i < 100; i++) {
+		iFib = fibFormula(i);
+		if(numDigits(iFib) == 1000) {
+			cout << i << endl;
+			return 1;
+		}
+	}
+	//cout << fibonacci(3) << endl;
+	//cout << fibFormula(4782) << endl;
 }
