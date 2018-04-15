@@ -262,18 +262,3 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 * [1000 Diti Fibonacci](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/1000DigitFibonacci.cpp)
 * [Factorial Digit Sum](https://github.com/lorbichara/100-days-of-code/blob/master/C++/ProjectEuler/FactorialDigitSum.cpp)
 
-### Day 29: April 13, 2018
-
-**Today's Progress**: Encrypting/Decrypting Agent Files
-
-**Thoughts:** This was an assignment for school but it took me the afternoon and it was interesting so I decided to add it. We created this Agent Management System, and now we had to encrypt/decrypt files with agent's information. (In C)
-
-**Links to work:** * [Encryption](https://github.com/lorbichara/100-days-of-code/blob/master/Encryption.cpp)
-
-### Day 30: April 14, 2018
-
-**Today's Progress**: LeetCode Math Problem
-
-**Thoughts:** Today was another LeetCode kind of day... It was a math problem and at first I came up with a very non-efficient solution, but after doing some research, I found a formula that calculates the answer much more faster.
-
-**Links to work:** * [Add Digits](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/AddDigits.cpp)
