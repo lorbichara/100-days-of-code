@@ -283,3 +283,9 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: Coding Challenge
 
 **Thoughts:** A MONTH ALREADY?!?! Today I completed a coding challenge for a company I'm applying to! For privacy purposes, I'm not making my solution public. I wasn't able to get all test cases, but I'm proud of what I accomplished considering it's the same challenge they use for full-time employees with more experience.
+
+### Day 32: April 16, 2018
+
+**Today's Progress**: Coding Challenge
+
+**Thoughts:** Ahhh I was told that I had kind of the idea on my solution so they offered another day to keep trying!! This is exciting, I kept trying today and I'm gonna keep trying tomorrow before sending back another attempt.
