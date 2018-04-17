@@ -277,9 +277,3 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** Today was another LeetCode kind of day... It was a math problem and at first I came up with a very non-efficient solution, but after doing some research, I found a formula that calculates the answer much more faster.
 
 **Links to work:** [Add Digits](https://github.com/lorbichara/100-days-of-code/blob/master/C++/LeetCode/AddDigits.cpp)
-
-### Day 31: April 15, 2018
-
-**Today's Progress**: Coding Challenge
-
-**Thoughts:** A MONTH ALREADY?!?! Today I completed a coding challenge for a company I'm applying to! For privacy purposes, I'm not making my solution public. I wasn't able to get all test cases, but I'm proud of what I accomplished considering it's the same challenge they use for full-time employees with more experience.
