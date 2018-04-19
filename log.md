@@ -295,3 +295,9 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: Coding Challenge
 
 **Thoughts:** I completed the coding challenge successfully! I'm really happy and proud of myself for accomplishing this. Each day that goes by, I feel more and more confident about my skills, aaaand we're only 1/3 into the challenge, so there's still a lot of time to keep practicing and learning.
+
+### Day 34: April 18, 2018
+
+**Today's Progress**: School work!
+
+**Thoughts:** Although I tried to avoid school work for the challenge, today was impossible! I spent all afternoon coding for my quality class, and finishing an app for an iOS activity. There was barely time to breathe, let alone code something personal... The good thing is that I finished everything on time!
