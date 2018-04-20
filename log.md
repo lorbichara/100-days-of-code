@@ -301,3 +301,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: School work!
 
 **Thoughts:** Although I tried to avoid school work for the challenge, today was impossible! I spent all afternoon coding for my quality class, and finishing an app for an iOS activity. There was barely time to breathe, let alone code something personal... The good thing is that I finished everything on time!
+
+### Day 35: April 19, 2018
+
+**Today's Progress**: iOS App
+
+**Thoughts:** Today I started a simple apps that uses Google Maps's API. I would like to make an app that uses Google Maps and highlights important landmarks/points in my city that are accessible for people with disabilities. For now I just started with including the map but we'll see how it goes.
+
+**Links to work:** [Add Digits](https://github.com/lorbichara/100-days-of-code/blob/master/Swift/Maps)
