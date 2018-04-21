@@ -308,4 +308,12 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** Today I started a simple apps that uses Google Maps's API. I would like to make an app that uses Google Maps and highlights important landmarks/points in my city that are accessible for people with disabilities. For now I just started with including the map but we'll see how it goes.
 
-**Links to work:** [Add Digits](https://github.com/lorbichara/100-days-of-code/blob/master/Swift/Maps)
+**Links to work:** [Maps App](https://github.com/lorbichara/100-days-of-code/blob/master/Swift/Maps)
+
+### Day 36: April 20, 2018
+
+**Today's Progress**: iOS App
+
+**Thoughts:** I continued with the app I was working on yesterday! Now I added the first pin that indicated an accesible location. Slowly getting the hang of the Google Maps API.
+
+**Links to work:** [Maps App](https://github.com/lorbichara/100-days-of-code/blob/master/Swift/Maps)
