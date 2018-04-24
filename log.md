@@ -315,3 +315,23 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: iOS App
 
 **Thoughts:** I continued with the app I was working on yesterday! Now I added the first pin that indicated an accesible location. Slowly getting the hang of the Google Maps API.
+
+**Links to work:** [Maps App](https://github.com/lorbichara/100-days-of-code/blob/master/Swift/Maps)
+
+### Day 37: April 21, 2018
+
+**Today's Progress**: iOS App
+
+**Thoughts:** Today was a super busy day. I didn't really have time to code :(. I spent the day at school doing some activities related to the Computer Science student council. It was fun to spread passion for technology to kids!
+
+### Day 38: April 22, 2018
+
+**Today's Progress**: iOS App for school
+
+**Thoughts:** I made some advances to my final project for the mobile app development class. We're adding a new feature to an existing app.
+
+### Day 39: April 23, 2018
+
+**Today's Progress**: iOS App for school
+
+**Thoughts:** Today I made some changes to the app. It's been hard working with an existing app, and it's not even THAT big, but it's sure been a challenge to integrate our feature with the rest of the app.
