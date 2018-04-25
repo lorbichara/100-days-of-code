@@ -342,8 +342,31 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** Today was a quality homework kind of day... it's the last program I have to do for this subject! We had to calculate a regression using the Gauss elimination method. Also, I downloaded the cutest sublime text pastel color theme from [HERE](https://github.com/soft-aesthetic). Coding is now way prettier.
 
+### Day 41: April 25, 2018
+
+**Today's Progress**: Homework, final project, exam, presentation
+
+**Thoughts:** Today I spent all day doing school work. Finals are coming up so I worked on the app for my mobile class final project. I also had to make a presentation on Blockchain, study and do homework for my quality class.
+
 ### Day 42: April 26, 2018
 
 **Today's Progress**: BUSY DAY!
 
 **Thoughts:** Between an exam, a homework, a presentation and a final project, I was busy all day! But still, of course I had to code for my project and homework so, still managed to code today.
+
+### Day 43: April 27, 2018
+
+**Today's Progress**: Interview Questions
+
+**Thoughts:** Yesterday I discussed with some friends different interview questions that they had solved for different companies. To practice, I decided to start solving some of them today.
+
+**Links to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/C++/FirstAndLast.cpp)
+
+### Day 44: April 28, 2018
+
+**Today's Progress**: ACM-ICPC International Collegiate Programming Contest
+
+**Thoughts:** Today I participated in the first round of the ICPC! I teamed-up with some friends and we coded for 6 hours trying to solve problems. We got a balloon!! 
+
+
+
