@@ -335,3 +335,9 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: iOS App for school
 
 **Thoughts:** Today I made some changes to the app. It's been hard working with an existing app, and it's not even THAT big, but it's sure been a challenge to integrate our feature with the rest of the app.
+
+### Day 40: April 24, 2018
+
+**Today's Progress**: Quality Homework
+
+**Thoughts:** Today was a quality homework kind of day... it's the last program I have to do for this subject! We had to calculate a regression using the Gauss elimination method. Also, I downloaded the cutest sublime text pastel color theme from [HERE](https://github.com/soft-aesthetic). Coding is now way prettier.
