@@ -341,3 +341,9 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: Quality Homework
 
 **Thoughts:** Today was a quality homework kind of day... it's the last program I have to do for this subject! We had to calculate a regression using the Gauss elimination method. Also, I downloaded the cutest sublime text pastel color theme from [HERE](https://github.com/soft-aesthetic). Coding is now way prettier.
+
+### Day 42: April 26, 2018
+
+**Today's Progress**: BUSY DAY!
+
+**Thoughts:** Between an exam, a homework, a presentation and a final project, I was busy all day! But still, of course I had to code for my project and homework so, still managed to code today.
