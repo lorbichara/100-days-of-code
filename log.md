@@ -347,3 +347,13 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: BUSY DAY!
 
 **Thoughts:** Between an exam, a homework, a presentation and a final project, I was busy all day! But still, of course I had to code for my project and homework so, still managed to code today.
+
+### Day 43: April 27, 2018
+
+**Today's Progress**: Interview Questions
+
+**Thoughts:** Yesterday I discussed with some friends different interview questions that they had solved for different companies. To practice, I decided to start solving some of them today.
+
+**Links to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/C++/FirstAndLast.cpp)
+
+
