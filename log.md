@@ -367,3 +367,9 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: ACM-ICPC International Collegiate Programming Contest
 
 **Thoughts:** Today I participated in the first round of the ICPC! I teamed-up with some friends and we coded for 6 hours trying to solve problems. We got a balloon!! 
+
+### Day 45: April 29, 2018
+
+**Today's Progress**: School Work
+
+**Thoughts:** Officially, from now till the first days of May I'll be full with school work. I wish I could keep doing personal work but it's gonna be hard! But I'll keep logging my school work to keep the challenge going.
