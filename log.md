@@ -373,3 +373,9 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: School Work
 
 **Thoughts:** Officially, from now till the first days of May I'll be full with school work. I wish I could keep doing personal work but it's gonna be hard! But I'll keep logging my school work to keep the challenge going.
+
+### Day 46: April 30, 2018
+
+**Today's Progress**: SciLab Project
+
+**Thoughts:** Today I helped a friend with a programming project she had to complete. It had to be done in SciLab, and although I'm not a big fan of it, we got some progress done.
