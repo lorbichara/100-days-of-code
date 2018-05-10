@@ -370,12 +370,72 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 ### Day 45: April 29, 2018
 
+**Today's Progress**: SciLab Project
+
+**Thoughts:** Today I helped a friend with a programming project she had to complete. It had to be done in SciLab, and although I'm not a big fan of it, we got some progress done.
+
+### Day 46: April 30, 2018
+
 **Today's Progress**: School Work
 
 **Thoughts:** Officially, from now till the first days of May I'll be full with school work. I wish I could keep doing personal work but it's gonna be hard! But I'll keep logging my school work to keep the challenge going.
 
-### Day 46: April 30, 2018
+### Day 47: May 1, 2018
 
-**Today's Progress**: SciLab Project
+**Today's Progress**: GUI Practice
 
-**Thoughts:** Today I helped a friend with a programming project she had to complete. It had to be done in SciLab, and although I'm not a big fan of it, we got some progress done.
+**Thoughts:** We covered user interfaces on advanced programming, and today I completed a homework that involved creating a GUI for a program I had already developed. I used GTK+ and it was STRESSFUL but it turned out okay.
+
+### Day 48: May 2, 2018
+
+**Today's Progress**: Threads Practice
+
+**Thoughts:** For advanced programming (yes, again), we covered threads, and we had to make a practice calculating pi using threads to check if it was more efficient single or multi-threaded.
+
+### Day 49: May 3, 2018
+
+**Today's Progress**: Threads Practice
+
+**Thoughts:** I continued with the threads practice and finished it!
+
+### Day 50: May 4, 2018
+
+**Today's Progress**: Advanced Programming Final Project
+
+**Thoughts:** For my advanced programming class, we had to make a Dropbox using C, Windows services and client/server sockets. I spent all day working on this. It was a very interesting project, and I had fun doing it! Btw, we're halfway from completing the challenge!!!
+
+### Day 51: May 5, 2018
+
+**Today's Progress**: ACM-ICPC International Collegiate Programming Contest
+
+**Thoughts:** Today was the second round of the ICPC contest. This time, we were able to solve 2 problems! I don't usually participate in this type of contests, but a friend invited me and I'm really glad I accepted because I got to practice a lot.
+
+### Day 52: May 6, 2018
+
+**Today's Progress**: Quality Final Report
+
+**Thoughts:** Today I was finishing up the last details of my work on the PSP (Personal Software Process) work for my Quality course.
+
+### Day 53: May 7, 2018
+
+**Today's Progress**: Quantitative Methods Project
+
+**Thoughts:** Yes. Another final project I spent all day on. For this project, we had to simulate a system, changing some parameters like arrival time and CPU processing time to check which made the average response time lower than 5 seconds.
+
+### Day 54: May 8, 2018
+
+**Today's Progress**: Study & Finish Up Projects
+
+**Thoughts:** Today was a HECTIC day! I studied for my quality final, but also had to finish up my mobile apps project, my quantitative methods project, and I also presented my advanced programming homework.
+
+### Day 55: May 9, 2018
+
+**Today's Progress**: Study
+
+**Thoughts:** Today I didn't code that much, but I spent all day reading about wireless security for my security final.
+
+### Day 56: May 10, 2018
+
+**Today's Progress**: Mother's Day & Study
+
+**Thoughts:** Yes, today we celebrated Mother's Day in Mexico. No, I didn't have dinner with my mom, because I was too busy studying for my quantitative methods final exam.
