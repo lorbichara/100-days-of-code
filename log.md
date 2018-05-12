@@ -384,6 +384,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Today's Progress**: GUI Practice
 
+<<<<<<< HEAD
 **Thoughts:** We covered user interfaces on advanced programming, and today I completed a homework that involved creating a GUI for a program I had already developed. I used GTK+ and it was STRESSFUL but it turned out okay.
 
 ### Day 48: May 2, 2018
