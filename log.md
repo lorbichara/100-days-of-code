@@ -440,3 +440,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Today's Progress**: Mother's Day & Study
 
 **Thoughts:** Yes, today we celebrated Mother's Day in Mexico. No, I didn't have dinner with my mom, because I was too busy studying for my quantitative methods final exam.
+
+### Day 66: May 20, 2018
+
+**Today's Progress**: Intro to PHP
+
+**Thoughts:** Aaaaaand I'm back! Finally after some stressful weeks of finals and a week of packing stuff, I'm back to my coding game. Today I watched a CS50 video on PHP to start off with the basics (I'm gonna be needing it for my future job). I followed some examples that were done on the video.
+
+**Link to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/PHP/CS50)
