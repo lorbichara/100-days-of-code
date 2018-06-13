@@ -441,10 +441,18 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** Yes, today we celebrated Mother's Day in Mexico. No, I didn't have dinner with my mom, because I was too busy studying for my quantitative methods final exam.
 
-### Day 66: May 20, 2018
+### Day 57: May 20, 2018
 
 **Today's Progress**: Intro to PHP
 
 **Thoughts:** Aaaaaand I'm back! Finally after some stressful weeks of finals and a week of packing stuff, I'm back to my coding game. Today I watched a CS50 video on PHP to start off with the basics (I'm gonna be needing it for my future job). I followed some examples that were done on the video.
 
 **Link to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/PHP/CS50)
+
+### Day 58: June 12, 2018
+
+**Today's Progress**: Back to the challenge!
+
+**Thoughts:** After a couple of weeks, I started my first internship at an incredible mexican company and I couldn't be happier! I'm learning so much and doing work that matters. One of my coworkers is a really talented programmer, and recently we've been discussing technical interviews, and he gave me some problems to work on. Today, I worked on a variant of a problem he gave me. I found the description on [Geeks For Geeks](https://www.geeksforgeeks.org/average-of-a-stream-of-numbers/) and tried my own solution.
+
+**Links to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/C++/AverageStringOfNumbers.cpp)
