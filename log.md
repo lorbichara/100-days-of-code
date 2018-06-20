@@ -456,3 +456,29 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** After a couple of weeks, I started my first internship at an incredible mexican company and I couldn't be happier! I'm learning so much and doing work that matters. One of my coworkers is a really talented programmer, and recently we've been discussing technical interviews, and he gave me some problems to work on. Today, I worked on a variant of a problem he gave me. I found the description on [Geeks For Geeks](https://www.geeksforgeeks.org/average-of-a-stream-of-numbers/) and tried my own solution.
 
 **Links to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/C++/AverageStringOfNumbers.cpp)
+
+### Day 59: June 16, 2018
+
+**Today's Progress**: Personal Website
+
+**Thoughts:** I'M GOING TO GRACE HOPPER!!!! AHHH HOW EXCITING IS THAT!!! Okay so after finding out I was awarded a scholarship to go to GHC18, I knew I had to prepare to sell myself in the conference. So, I started working on a personal webpage. I wanted to take advantage of GitHub Pages and tried my own page, following a simple [tutorial](https://medium.com/@ianjsikes/build-a-personal-website-with-html-and-css-part-1-3013fb5dacd4). I'll keep working on it to make it better.
+
+**Links to work:** [Personal Website](https://lorbichara.github.io/)
+
+### Day 60: June 17, 2018
+
+**Today's Progress**: Personal Website
+
+**Thoughts:** Today I continued modifying some things to my page.
+
+**Links to work:** [Personal Website](https://lorbichara.github.io/)
+
+### Day 61: June 19, 2018
+
+**Today's Progress**: Binary Search
+
+**Thoughts:** As I'm preparing for recruiting season, I notice that I always try to avoid any kind of searching/sorting algorithm. To avoid this avoidance, I wanted to start practicing the most popular algorithms. For most of them, I know the theory of how they work, but I'm not really confident about implementing them, so I decided to write an implementation for each algorithm, to really practice what I've been studying. Today was binary search. I was working on this at the office, and a coworker came by and helped me practice.
+
+**Links to work:** [Binary Search](https://github.com/lorbichara/100-days-of-code/blob/master/C++/Algorithms/BinarySearch.cpp)
+
+
