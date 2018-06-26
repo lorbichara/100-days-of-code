@@ -481,4 +481,12 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [Binary Search](https://github.com/lorbichara/100-days-of-code/blob/master/C++/Algorithms/BinarySearch.cpp)
 
+### Day 62: June 25, 2018
+
+**Today's Progress**: My First Bot
+
+**Thoughts:** Today I created my frist Twitter bot, following [this](https://scotch.io/tutorials/build-a-tweet-bot-with-python) tutorial. I wanted to learn how to make a bot to be able to create useful bots in the future. The tutorial was made using Python and it was pretty simple and clear. So far, it only takes a picture, scrambles it, and replies it back to the user. Hopefully, with these bases, I'll be able to make more useful bots eventually.
+
+**Links to work:** [Pic Scrambler Bot](https://github.com/lorbichara/pic-scrambler-bot)
+
 
