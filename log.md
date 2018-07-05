@@ -489,4 +489,12 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [Pic Scrambler Bot](https://github.com/lorbichara/pic-scrambler-bot)
 
+### Day 63: July 4, 2018
+
+**Today's Progress**: Merge Sort
+
+**Thoughts:** Today was Merge Sort's turn to get implemented. That merge method was tricky but I finally got it.
+
+**Links to work:** [Merge Sort](https://github.com/lorbichara/100-days-of-code/blob/master/C++/Algorithms/MergeSort.cpp)
+
 
