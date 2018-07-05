@@ -296,13 +296,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Thoughts:** I completed the coding challenge successfully! I'm really happy and proud of myself for accomplishing this. Each day that goes by, I feel more and more confident about my skills, aaaand we're only 1/3 into the challenge, so there's still a lot of time to keep practicing and learning.
 
-### Day 34: April 18, 2018
-
-**Today's Progress**: School work!
-
-**Thoughts:** Although I tried to avoid school work for the challenge, today was impossible! I spent all afternoon coding for my quality class, and finishing an app for an iOS activity. There was barely time to breathe, let alone code something personal... The good thing is that I finished everything on time!
-
-### Day 35: April 19, 2018
+### Day 34: April 19, 2018
 
 **Today's Progress**: iOS App
 
@@ -310,7 +304,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [Maps App](https://github.com/lorbichara/100-days-of-code/blob/master/Swift/Maps)
 
-### Day 36: April 20, 2018
+### Day 35: April 20, 2018
 
 **Today's Progress**: iOS App
 
@@ -318,43 +312,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [Maps App](https://github.com/lorbichara/100-days-of-code/blob/master/Swift/Maps)
 
-### Day 37: April 21, 2018
-
-**Today's Progress**: iOS App
-
-**Thoughts:** Today was a super busy day. I didn't really have time to code :(. I spent the day at school doing some activities related to the Computer Science student council. It was fun to spread passion for technology to kids!
-
-### Day 38: April 22, 2018
-
-**Today's Progress**: iOS App for school
-
-**Thoughts:** I made some advances to my final project for the mobile app development class. We're adding a new feature to an existing app.
-
-### Day 39: April 23, 2018
-
-**Today's Progress**: iOS App for school
-
-**Thoughts:** Today I made some changes to the app. It's been hard working with an existing app, and it's not even THAT big, but it's sure been a challenge to integrate our feature with the rest of the app.
-
-### Day 40: April 24, 2018
-
-**Today's Progress**: Quality Homework
-
-**Thoughts:** Today was a quality homework kind of day... it's the last program I have to do for this subject! We had to calculate a regression using the Gauss elimination method. Also, I downloaded the cutest sublime text pastel color theme from [HERE](https://github.com/soft-aesthetic). Coding is now way prettier.
-
-### Day 41: April 25, 2018
-
-**Today's Progress**: Homework, final project, exam, presentation
-
-**Thoughts:** Today I spent all day doing school work. Finals are coming up so I worked on the app for my mobile class final project. I also had to make a presentation on Blockchain, study and do homework for my quality class.
-
-### Day 42: April 26, 2018
-
-**Today's Progress**: BUSY DAY!
-
-**Thoughts:** Between an exam, a homework, a presentation and a final project, I was busy all day! But still, of course I had to code for my project and homework so, still managed to code today.
-
-### Day 43: April 27, 2018
+### Day 36: April 27, 2018
 
 **Today's Progress**: Interview Questions
 
@@ -362,86 +320,49 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/C++/FirstAndLast.cpp)
 
-### Day 44: April 28, 2018
+### Day 37: April 28, 2018
 
 **Today's Progress**: ACM-ICPC International Collegiate Programming Contest
 
 **Thoughts:** Today I participated in the first round of the ICPC! I teamed-up with some friends and we coded for 6 hours trying to solve problems. We got a balloon!! 
 
-### Day 45: April 29, 2018
+### Day 38: April 29, 2018
 
 **Today's Progress**: SciLab Project
 
 **Thoughts:** Today I helped a friend with a programming project she had to complete. It had to be done in SciLab, and although I'm not a big fan of it, we got some progress done.
 
-### Day 46: April 30, 2018
-
-**Today's Progress**: School Work
-
-**Thoughts:** Officially, from now till the first days of May I'll be full with school work. I wish I could keep doing personal work but it's gonna be hard! But I'll keep logging my school work to keep the challenge going.
-
-### Day 47: May 1, 2018
+### Day 39: May 1, 2018
 
 **Today's Progress**: GUI Practice
 
-<<<<<<< HEAD
 **Thoughts:** We covered user interfaces on advanced programming, and today I completed a homework that involved creating a GUI for a program I had already developed. I used GTK+ and it was STRESSFUL but it turned out okay.
 
-### Day 48: May 2, 2018
+### Day 40: May 2, 2018
 
 **Today's Progress**: Threads Practice
 
 **Thoughts:** For advanced programming (yes, again), we covered threads, and we had to make a practice calculating pi using threads to check if it was more efficient single or multi-threaded.
 
-### Day 49: May 3, 2018
+### Day 41: May 3, 2018
 
 **Today's Progress**: Threads Practice
 
 **Thoughts:** I continued with the threads practice and finished it!
 
-### Day 50: May 4, 2018
+### Day 42: May 4, 2018
 
 **Today's Progress**: Advanced Programming Final Project
 
 **Thoughts:** For my advanced programming class, we had to make a Dropbox using C, Windows services and client/server sockets. I spent all day working on this. It was a very interesting project, and I had fun doing it! Btw, we're halfway from completing the challenge!!!
 
-### Day 51: May 5, 2018
+### Day 43: May 5, 2018
 
 **Today's Progress**: ACM-ICPC International Collegiate Programming Contest
 
 **Thoughts:** Today was the second round of the ICPC contest. This time, we were able to solve 2 problems! I don't usually participate in this type of contests, but a friend invited me and I'm really glad I accepted because I got to practice a lot.
 
-### Day 52: May 6, 2018
-
-**Today's Progress**: Quality Final Report
-
-**Thoughts:** Today I was finishing up the last details of my work on the PSP (Personal Software Process) work for my Quality course.
-
-### Day 53: May 7, 2018
-
-**Today's Progress**: Quantitative Methods Project
-
-**Thoughts:** Yes. Another final project I spent all day on. For this project, we had to simulate a system, changing some parameters like arrival time and CPU processing time to check which made the average response time lower than 5 seconds.
-
-### Day 54: May 8, 2018
-
-**Today's Progress**: Study & Finish Up Projects
-
-**Thoughts:** Today was a HECTIC day! I studied for my quality final, but also had to finish up my mobile apps project, my quantitative methods project, and I also presented my advanced programming homework.
-
-### Day 55: May 9, 2018
-
-**Today's Progress**: Study
-
-**Thoughts:** Today I didn't code that much, but I spent all day reading about wireless security for my security final.
-
-### Day 56: May 10, 2018
-
-**Today's Progress**: Mother's Day & Study
-
-**Thoughts:** Yes, today we celebrated Mother's Day in Mexico. No, I didn't have dinner with my mom, because I was too busy studying for my quantitative methods final exam.
-
-### Day 57: May 20, 2018
+### Day 44: May 20, 2018
 
 **Today's Progress**: Intro to PHP
 
@@ -449,7 +370,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Link to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/PHP/CS50)
 
-### Day 58: June 12, 2018
+### Day 45: June 12, 2018
 
 **Today's Progress**: Back to the challenge!
 
@@ -457,7 +378,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [First and Last](https://github.com/lorbichara/100-days-of-code/blob/master/C++/AverageStringOfNumbers.cpp)
 
-### Day 59: June 16, 2018
+### Day 46: June 16, 2018
 
 **Today's Progress**: Personal Website
 
@@ -465,7 +386,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [Personal Website](https://lorbichara.github.io/)
 
-### Day 60: June 17, 2018
+### Day 47: June 17, 2018
 
 **Today's Progress**: Personal Website
 
@@ -473,7 +394,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [Personal Website](https://lorbichara.github.io/)
 
-### Day 61: June 19, 2018
+### Day 48: June 19, 2018
 
 **Today's Progress**: Binary Search
 
@@ -481,7 +402,7 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [Binary Search](https://github.com/lorbichara/100-days-of-code/blob/master/C++/Algorithms/BinarySearch.cpp)
 
-### Day 62: June 25, 2018
+### Day 49: June 25, 2018
 
 **Today's Progress**: My First Bot
 
@@ -489,12 +410,10 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 
 **Links to work:** [Pic Scrambler Bot](https://github.com/lorbichara/pic-scrambler-bot)
 
-### Day 63: July 4, 2018
+### Day 50: July 4, 2018
 
 **Today's Progress**: Merge Sort
 
 **Thoughts:** Today was Merge Sort's turn to get implemented. That merge method was tricky but I finally got it.
 
 **Links to work:** [Merge Sort](https://github.com/lorbichara/100-days-of-code/blob/master/C++/Algorithms/MergeSort.cpp)
-
-
