@@ -417,3 +417,11 @@ Yes, I solved more Cracking the Coding Interview Problems today. I'm taking adva
 **Thoughts:** Today was Merge Sort's turn to get implemented. That merge method was tricky but I finally got it.
 
 **Links to work:** [Merge Sort](https://github.com/lorbichara/100-days-of-code/blob/master/C++/Algorithms/MergeSort.cpp)
+
+### Day 51: July 5, 2018
+
+**Today's Progress**: Collatz Conjecture
+
+**Thoughts:** Today my coworkers and I were discussing math problems and someone mentioned the Collatz Conjecture, so I decided to program it to see if we could come up with a number that didn't meet the conjecture (spoiler: we didn't find one). My first approach was recursive, but then I tried an iterative one.
+
+**Links to work:** [Merge Sort](https://github.com/lorbichara/100-days-of-code/blob/master/C++/collatz.cpp)
